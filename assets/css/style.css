@@ -1,0 +1,14 @@
+/*  pintar.html */ 
+
+#ele1 {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#text1 {
+  cursor: pointer;
+}
